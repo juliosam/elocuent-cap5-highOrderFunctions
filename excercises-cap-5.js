@@ -112,3 +112,5 @@ console.log(ej4);  //-----------EJERCICIO 4 --------------------
  // → ltr
  console.log(dominantDirection("Hey, مساء الخير"));
  // → rtl
+
+ 
